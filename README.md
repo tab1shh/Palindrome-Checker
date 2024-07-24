@@ -38,10 +38,10 @@ print(f"'{test_string}' is a palindrome: {is_palindrome(test_string)}")
 ## Running Tests
 Run the test suite using 'unittest' or 'pytest'.
 Using 'unittest'
-```python
+```bash
 python -m unittest discover tests
 ```
 Using pytest
-```python
+```bash
 pytest
 ```
