@@ -42,5 +42,6 @@ Using 'unittest'
 python -m unittest discover tests
 ```
 Using pytest
-```pytest
+```python
+pytest
 ```
